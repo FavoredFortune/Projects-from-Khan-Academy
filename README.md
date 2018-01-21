@@ -6,5 +6,5 @@ November - December 2017
 Sample projects include several animations and click or mouse events in JavaScript as well as some HTML. Here is the list:
 
   * Growing flowers: *click the background to make flowers grow*
-  * Make rain: *random colors of raindrops fall with ability to make new raindrops with mouse click*
+  * Making rain: *random colors of raindrops fall with ability to make new raindrops with mouse click*
   * Magic 8 ball: *ask your question and click the eight ball to get one of several answers from an array*
